@@ -44,6 +44,7 @@ div{
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
+    border: none;
     border-bottom: solid 2px;
     border-left: solid 5px;
 }
@@ -51,6 +52,7 @@ div{
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
+    border: none;
     border-right: 5px;
     border-top: 2px;
 }
@@ -61,6 +63,7 @@ div{
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
+    border: none;
     border-bottom: 2px;
     border-left: 5px;
 }
@@ -71,6 +74,7 @@ div{
     background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
+    border: none;
     border-right: 5px;
     border-top: 2px;
 }
